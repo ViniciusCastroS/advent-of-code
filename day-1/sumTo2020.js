@@ -1,6 +1,5 @@
 var json = require('./numbers.json');
 
-
 function sum() {
     var sum = json.array;
 
